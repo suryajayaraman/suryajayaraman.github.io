@@ -1,5 +1,5 @@
-## suryajayaraman.github.io
-Personal Portfolio
+
+### [Personal Portfolio](https://suryajayaraman.github.io/)
 
 ### Reference
 [HTML5 templates](https://html5up.net/)
